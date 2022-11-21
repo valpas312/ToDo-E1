@@ -21,6 +21,7 @@ export const StyledForm = styled.form`
         border: none;
         background-color: beige;
         border-radius: 15px;
+        width: 100%;
     }
     button{
         padding: .5rem;

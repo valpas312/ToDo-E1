@@ -6,7 +6,7 @@ export const StyledToDo = styled.div`
     align-items: center;
     flex-direction: row;
     gap: 1rem;
-    width: 10vw;
+    width: 80vw;
     height: 10vh;
     background-color: beige;
     border-radius: 15px;
